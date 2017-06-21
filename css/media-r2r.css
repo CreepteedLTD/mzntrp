@@ -1,0 +1,123 @@
+@media only screen and (max-width: 1400px) {
+    .big_heading {
+        font-size: 4em !important;
+    }
+    .section .content .c-left .c-wrapper {
+        padding: 70px;
+    }
+    .black_heading {
+        font-size: 1.2em;
+    }
+    .services_scroll {
+        background-position: 10% 0 !important;
+    }
+}
+
+@media only screen and (max-width:1360px){
+    .medium_heading {
+        font-size: 1.7em !important;
+    }
+    .section .content .c-wrapper .items-pagination, .section .content .c-wrapper .blog-pagination, .section .content .c-wrapper .slide-pagination, .section .content .c-wrapper .swiper-pagination {
+        right: 2em;
+    }
+    .section .content .c-wrapper .items-nav-container, .section .content .c-wrapper .slide-nav-container {
+        top: 29em;
+        right: 0em;
+    }
+    .section .content .c-left .c-wrapper p {
+        font-size: 16px;
+    }
+    .skills_list {
+        font-size: 0.9em;
+    }
+    .black_heading {
+        font-size: 1em;
+    }
+    .section .content .c-left .c-wrapper {
+        padding: 3.5em;
+        padding-top: 10px;
+    }
+    .socDesk p {
+        font-size: 2em !important;
+    }
+    .section .content .c-features-list li .desc p {
+        font-size: 14px;
+    }
+    .section .content .c-wrapper .blog-nav-container {
+        top: 37em;
+        right: 0em;
+    }
+    .section .content .c-left .c-wrapper h2{
+        font-size: 21px;
+    }
+    .blog_heading  {
+        font-size: 0.8em !important;
+    }
+    .section .content .c-features-list li .title, .section .content .c-features-list li h3 {
+        font-size: 18px;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .blog-desc {
+        max-height: 16em;
+        overflow: hidden;
+    }
+    .section .content .c-wrapper .items-pagination, .section .content .c-wrapper .blog-pagination, .section .content .c-wrapper .slide-pagination, .section .content .c-wrapper .swiper-pagination {
+        top: 6em
+    }
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .section .content .c-left .c-wrapper h2 {
+        font-size: 25px;
+    }
+    .section .content .c-left .c-wrapper {
+        padding: 70px;
+    }
+    .black_heading {
+        font-size: 0.9em;
+    }
+    .section .content .c-left .c-wrapper p{
+        font-size: 16px;
+    }
+    .skills_list{
+        font-size: 1em;
+    }
+    .section .content .c-left .c-wrapper .c-features {
+        margin-top:  -3em;
+    }
+    .skills_p {
+        min-height: 13em;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .big_heading {
+        font-size: 2em !important;
+    }
+    .section .content .c-left .c-wrapper h2 {
+        font-size: 18px;
+    }
+    .section .content .c-left .c-wrapper {
+        padding: 15px;
+    }
+    .s-footer a{
+        display: none;
+    }
+    .services_scroll {
+        background-position: 150% 0 !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}

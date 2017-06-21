@@ -1,0 +1,79 @@
+@media only screen and (max-width: 1400px) {
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .menu-links .links{
+        display: none;
+    }
+    .menu-icon{
+        top: 0.5em;
+        right: 0.5em;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .magic-btn-black{
+        display:none;
+    }
+    .section .content .c-wrapper .items-nav-container .items-button, .section .content .c-wrapper .blog-nav-container .blog-button, .section .content .c-wrapper .slide-nav-container .items-button{
+        display: none;
+    }
+    .section .content .c-wrapper .items-pagination, .section .content .c-wrapper .blog-pagination, .section .content .c-wrapper .slide-pagination, .section .content .c-wrapper .swiper-pagination{
+        top: 470px;
+        left:10px;
+    }
+    .page-menu .menu-wrapper li a .title{
+        height: 70px;
+        width: 200px;
+    }
+    .page-menu .menu-wrapper li a{
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .socDesk p{
+        font-size: 0.9em !important;
+    }
+    .social-cont h3{
+        font-size: 2em !important;
+    }
+    .socials li a{
+        font-size: 16px !important;
+    }
+    .big_heading{
+        font-size: 4em !important;
+    }
+    .section .content .c-left .c-wrapper{
+        padding: 0px 10%;
+    }
+    .section .content .c-header h3{
+        font-size: 16px;
+    }
+    .medium_heading{
+        font-size: 2.5em !important;
+    }
+    h3{
+        margin-bottom: 3.5rem;
+    }
+    .empty_space_4{
+        height:0;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+    .section .content .c-wrapper .items-pagination, .section .content .c-wrapper .blog-pagination, .section .content .c-wrapper .slide-pagination, .section .content .c-wrapper .swiper-pagination{
+        top: 495px;
+        left:10px;
+    }
+}
+
+
+
+
+
